@@ -50,6 +50,10 @@ h2 {
     font-size: 2.5rem;  
     margin-top: 0;
 }
+a {
+    text-decoration: none;
+    color: azure;
+}
 
 .top-text {
     position: relative;
