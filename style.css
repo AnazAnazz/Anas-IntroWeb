@@ -1,4 +1,6 @@
-
+body, html {
+    overflow-x: hidden;
+}
 
 
 .top-gradient-background {
